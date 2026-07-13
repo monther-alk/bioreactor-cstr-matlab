@@ -18,3 +18,6 @@ built in MATLAB.
 ## How to run
 Open main_simulation.m in MATLAB and run. Adjust parameters 
 in the constants section at the top.
+
+## Sample output
+![Simulation output](output_plot.png)
