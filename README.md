@@ -34,14 +34,6 @@ Where:
 
 > Update these values in `main_simulation.m` to match your experimental or literature parameters.
 
-## Simulations
-
-### 1. Dynamic response (`main_simulation.m`)
-Solves the coupled ODEs over time for a given set of operating conditions, showing how biomass and substrate evolve from initial conditions to steady state.
-
-### 2. Dilution rate sweep (`parameter_sweep.m`)
-Simulates a range of dilution rates to analyse the effect on steady-state biomass concentration. Demonstrates washout behaviour at high dilution rates.
-
 ## Sample output
 
 ![Dynamic simulation output](output_plot.png)
