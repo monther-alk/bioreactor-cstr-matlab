@@ -62,7 +62,7 @@ Output plots are saved automatically as PNG files in the same directory.
 
 A simplified reactor layout was designed in AutoCAD to visually represent the system assumptions and flow configuration of the CSTR model.
 
-![Reactor schematic](CSTR Bioreactor AutoCAD drawing.png)
+![Reactor schematic](autocad/CSTR Bioreactor AutoCAD drawing.png)
 
 > The schematic is included for reference and does not affect the simulation output.
 
