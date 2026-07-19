@@ -68,7 +68,7 @@ A simplified reactor layout was designed in AutoCAD to visually represent the sy
 
 ## Related
 
-- [Python version](https://github.com/your-username/bioreactor-cstr-python) — port of this model using scipy and matplotlib
+- [Python version](https://github.com/monther-alk/bioreactor-cstr-python) — port of this model using scipy and matplotlib
 
 ## Author
 
